@@ -68,8 +68,8 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
 
 ### 📊 My GitHub Stats
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=abevicrama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="K.M.L Lakmal's GitHub Stats" />
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abevicrama&layout=compact&theme=tokyonight" alt="K.M.L Lakmal's Top Languages" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=abevicrama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="K.M.L Lakmal's GitHub Stats" />
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abevicrama&layout=compact&theme=tokyonight" alt="K.M.L Lakmal's Top Languages" />
 </p>
 
 ---
