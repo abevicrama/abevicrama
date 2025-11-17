@@ -65,11 +65,13 @@ Here are some of the languages, frameworks, and tools I enjoy working with:
 </p>
 
 ---
-
+<br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pasindu Sewmuthu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abevicrama&show_icons=true&count_private=true&theme=vue-dark&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Pasindu Sewmuthu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abevicrama&langs_count=8&count_private=true&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117" /></a>
 ### 📊 My GitHub Stats
 <p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=abevicrama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="K.M.L Lakmal's GitHub Stats" />
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abevicrama&layout=compact&theme=tokyonight" alt="K.M.L Lakmal's Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abevicrama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="K.M.L Lakmal's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abevicrama&layout=compact&theme=tokyonight" alt="K.M.L Lakmal's Top Languages" />
 </p>
 
 ---
