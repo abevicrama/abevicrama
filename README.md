@@ -1,30 +1,13 @@
-<!-- Animated Header -->
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abevicrama/abevicrama/main/banner.png" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Lakmal Abeywickrama</h1>
 
 <h3 align="center">
-💻 Python Developer | 🤖 AI & Machine Learning | 📊 Data Science | ⚙️ Automation | 🚀 Robotics & IoT
+💻 Python Developer | 🤖 AI | 📊 Data Science | ⚙️ Robotics | 🌐 IoT
 </h3>
-
----
-
-<!-- Typing Animation -->
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Computer+Science+Undergraduate;AI+%7C+Machine+Learning+Developer;Backend+API+Engineer;Robotics+%26+Automation+Enthusiast;Building+Intelligent+Systems" />
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 Computer Science Undergraduate passionate about building **intelligent, data-driven software systems**
-
-🧠 I specialize in combining:
-- Artificial Intelligence  
-- Backend Development  
-- Automation Pipelines  
-- Robotics & IoT Systems  
-
-⚡ I enjoy building **end-to-end AI solutions** from data collection to deployment.
 
 ---
 
@@ -68,60 +51,3 @@
 <p>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
 </p>
-
----
-
-## 🌟 Featured Projects
-
-### 🤖 Waste Classification Mobile Robot
-✔ Computer Vision waste detection using YOLO  
-✔ Python-based robotic control system  
-✔ Intelligent automation workflow  
-
----
-
-### 📰 AI Tech News Automation Platform
-✔ Automated web scraping  
-✔ AI summarization using Local LLMs  
-✔ End-to-end publishing pipeline  
-
----
-
-### ✍️ Handwritten Character Recognition
-✔ Machine learning classification system  
-✔ GUI prediction tool  
-✔ OpenCV & XGBoost integration  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abevicrama&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abevicrama&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
-## ⚡ GitHub Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abevicrama&theme=tokyo-night&area=true" />
-</p>
-
-
----
-
-## 🌱 Currently Learning
-
-- Advanced AI Model Deployment  
-- Scalable Cloud-Based AI Systems  
-- Production Level Backend Engineering  
-
----
-
-⭐ *"Transforming AI ideas into real-world intelligent systems."*
