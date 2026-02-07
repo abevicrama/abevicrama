@@ -48,85 +48,90 @@
 ## 🧰 Skills
 
 <table>
-  <tr>
-    <td align="center" width="25%">
-      <h3>👨‍💻 Programming</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,js" />
-      </p>
-    </td>
+<tr>
 
-    <td align="center" width="25%">
-      <h3>🌐 Web</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=django,html,css" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </p>
-    </td>
+<td align="center" width="25%">
+  <h3>👨‍💻 Programming</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,js" />
+  </p>
+</td>
 
-    <td align="center" width="25%">
-      <h3>📊 Data Analysis & Viz</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=pandas,numpy" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
-        <img src="https://img.shields.io/badge/Matplotlib-0B1220?style=for-the-badge&logo=plotly&logoColor=white" />
-      </p>
-    </td>
+<td align="center" width="25%">
+  <h3>🌐 Web</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=django,html,css" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/REST%20API-2563EB?style=for-the-badge&logo=fastapi&logoColor=white" />
+  </p>
+</td>
 
-    <td align="center" width="25%">
-      <h3>🧠 Algorithms & DS</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Problem%20Solving-22C55E?style=for-the-badge&logo=codeforces&logoColor=white" />
-        <img src="https://img.shields.io/badge/Algorithm%20Design-10B981?style=for-the-badge&logo=thealgorithms&logoColor=white" />
-      </p>
-    </td>
-  </tr>
+<td align="center" width="25%">
+  <h3>📊 Data Analysis & Viz</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+    <img src="https://img.shields.io/badge/Matplotlib-0B1220?style=for-the-badge&logo=plotly&logoColor=white" />
+  </p>
+</td>
 
-  <tr>
-    <td align="center">
-      <h3>🔁 Version Control</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,github" />
-      </p>
-    </td>
+<td align="center" width="25%">
+  <h3>🧠 Algorithms & DS</h3>
+  <p>
+    ✔ Problem Solving  
+    <br>
+    ✔ Algorithm Design
+  </p>
+</td>
 
-    <td align="center">
-      <h3>🗄️ Databases</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
-      </p>
-    </td>
+</tr>
 
-    <td align="center">
-      <h3>🤖 Artificial Intelligence</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=opencv,sklearn" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/YOLO-FF0033?style=for-the-badge&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/Computer%20Vision-8B5CF6?style=for-the-badge&logo=eyeem&logoColor=white" />
-        <img src="https://img.shields.io/badge/XGBoost-B91C1C?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
-    </td>
+<tr>
 
-    <td align="center">
-      <h3>🤖 Robotics & IoT</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Embedded%20Systems-0EA5E9?style=for-the-badge&logo=esphome&logoColor=white" />
-      </p>
-    </td>
-  </tr>
+<td align="center" width="25%">
+  <h3>🔁 Version Control</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github" />
+  </p>
+</td>
+
+<td align="center" width="25%">
+  <h3>🗄️ Databases</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
+  </p>
+</td>
+
+<td align="center" width="25%">
+  <h3>🤖 Artificial Intelligence</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=opencv,sklearn" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/YOLO-FF0033?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img src="https://img.shields.io/badge/XGBoost-B91C1C?style=for-the-badge&logo=python&logoColor=white" />
+  </p>
+</td>
+
+<td align="center" width="25%">
+  <h3>🤖 Robotics & IoT</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Embedded%20Systems-0EA5E9?style=for-the-badge&logo=esphome&logoColor=white" />
+  </p>
+</td>
+
+</tr>
 </table>
+
 
 ---
 
